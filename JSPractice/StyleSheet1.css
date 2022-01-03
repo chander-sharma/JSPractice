@@ -1,0 +1,39 @@
+﻿.index{
+    background-color:burlywood;
+    text-align:center;
+    
+}
+#l1{
+font-size:x-large;
+color:black;
+font-family:'Arial Rounded MT';
+}
+label{
+    color: brown;
+    font-size: x-large;
+    font-family:'Calisto MT';
+}
+#d1 {
+    font-size: larger;
+    font-display: block;
+}
+#years{
+font-size:large;
+font-display:block;
+}
+#weeks{
+    font-size: large;
+    font-display: block;
+}
+#days{
+    font-size: large;
+    font-display: block;
+}
+button{
+font-size:x-large;
+color:green;
+background-color:white;
+}
+.b1:hover{
+    background-color: chartreuse;
+}
